@@ -1,0 +1,11 @@
+git init - initialise for the folder
+git status - status
+git checkout -b branchname - change to new branch (-b creates new?)
+git add file - add file to stage
+git commit -m "Message" - commit file, 'Initial Commit" for initial "feat: feature" for a new feature "fix: fix details" for a bug fix
+git log - check the log (--oneline)
+git diff - check difference between files
+git branch - branch details (-d flag to delete)
+git branch feat/featurename - adds a new branch
+git merge branchname - merges branches
+
