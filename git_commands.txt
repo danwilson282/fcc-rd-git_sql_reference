@@ -8,4 +8,10 @@ git diff - check difference between files
 git branch - branch details (-d flag to delete)
 git branch feat/featurename - adds a new branch
 git merge branchname - merges branches
-
+git rebase main - make main
+git rebase --interactive HEAD~#
+git stash - stashes changes
+git stash list
+git stash pop - pops the change off
+git stash show -p - shows changes
+git reset HEAD~1 - go back to previous
